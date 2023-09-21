@@ -1,0 +1,6 @@
+
+*.pyc
+urdu_stories/pipelines.py
+urdu_stories/items.py
+urdu_stories/settings.py
+*.xml
